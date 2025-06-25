@@ -7,3 +7,5 @@
 #Testing codes are available. Currently, no scripts have been provided due to time constraints. 
 
 #The model training codes will be available after the submitted paper is accepted for publication.
+
+#Pytorch 2.1.0+cuda118
